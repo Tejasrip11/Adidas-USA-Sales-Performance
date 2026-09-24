@@ -10,7 +10,6 @@ This portfolio project uses a publicly available Adidas USA sales sample dataset
 
 The project demonstrates data cleaning, data-quality validation, SQL analysis, dimensional modeling, Power BI dashboard development, DAX measures, and business recommendations.
 
-The dataset is a public portfolio sample and is not verified internal Adidas company data.
 
 ## Business Objectives
 
