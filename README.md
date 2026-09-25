@@ -65,3 +65,13 @@ images/
 - [Data Cleaning and Transformation](docs/data_cleaning.md)
 - [DAX Measures and Date Table](docs/dax_measures.md)
 - [SQL Analysis Queries](sql/analysis_queries.sql)
+
+## Key Insights
+
+- Total sales reached **$899.90M**, generating **$332.13M** in operating profit.
+- The overall operating margin was **36.91%**, with **2.48M units sold**.
+- **West Gear** was the highest-performing retailer, contributing approximately **$243M** in sales.
+- The **West** was the strongest region, generating approximately **$270M** in sales.
+- **Men's Street Footwear** was the leading product category, with approximately **$209M** in sales.
+- **In-store sales** represented the largest sales method at **39.63%**, followed by Outlet at **32.85%** and Online at **27.52%**.
+- Sales performance increased significantly during **2021** compared with 2020.
