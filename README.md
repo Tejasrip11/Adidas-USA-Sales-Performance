@@ -59,3 +59,8 @@ images/
 ### Retailer Analysis
 
 ![Retailer Analysis](images/retailer_analysis.png)
+
+## Project Documentation
+
+- [Data Cleaning and Transformation](docs/data_cleaning.md)
+- [DAX Measures and Date Table](docs/dax_measures.md)
