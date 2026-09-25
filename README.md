@@ -64,3 +64,4 @@ images/
 
 - [Data Cleaning and Transformation](docs/data_cleaning.md)
 - [DAX Measures and Date Table](docs/dax_measures.md)
+- [SQL Analysis Queries](sql/analysis_queries.sql)
