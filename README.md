@@ -49,3 +49,13 @@ sql/
 powerbi/
 docs/
 images/
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+### Retailer Analysis
+
+![Retailer Analysis](images/retailer_analysis.png)
