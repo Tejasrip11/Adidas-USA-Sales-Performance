@@ -74,4 +74,13 @@ images/
 - The **West** was the strongest region, generating approximately **$270M** in sales.
 - **Men's Street Footwear** was the leading product category, with approximately **$209M** in sales.
 - **In-store sales** represented the largest sales method at **39.63%**, followed by Outlet at **32.85%** and Online at **27.52%**.
-- Sales performance increased significantly during **2021** compared with 2020.
+- **Sales performance increased significantly during **2021** compared with 2020.**															
+## Tools and Technologies
+
+- **Power BI:** Dashboard development, data modeling, interactive slicers, bookmarks, and navigation
+- **Power Query:** Data cleaning, transformation, validation, and preparation
+- **DAX:** KPI measures, operating margin calculations, and date analysis
+- **SQL:** Business analysis queries and data aggregation
+- **Microsoft Excel:** Source data review and cleaned dataset storage
+- **Git and GitHub:** Version control, project documentation, and portfolio presentation
+
