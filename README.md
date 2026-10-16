@@ -84,3 +84,14 @@ images/
 - **Microsoft Excel:** Source data review and cleaned dataset storage
 - **Git and GitHub:** Version control, project documentation, and portfolio presentation
 
+## BigQuery ETL Pipeline & Data Studio Dashboard
+
+This extension rebuilds the Adidas analysis as a cloud data pipeline on Google BigQuery, with a Data Studio (formerly Looker Studio) dashboard on top.
+
+### Business questions
+1. What are total sales, operating profit, and margin across the business?
+2. How did monthly sales trend from 2020 to 2021?
+3. Which retailers drive the most revenue?
+4. How reliable is the data, and which records need review?
+
+### Pipeline
