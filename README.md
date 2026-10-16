@@ -83,6 +83,9 @@ images/
 - **SQL:** Business analysis queries and data aggregation
 - **Microsoft Excel:** Source data review and cleaned dataset storage
 - **Git and GitHub:** Version control, project documentation, and portfolio presentation
+- **Google BigQuery:** Cloud data warehouse for the raw, fact, and monthly summary tables
+- **BigQuery SQL:** ETL scripts using CTEs, window functions (LAG), data validation checks, and source-to-target reconciliation
+- **Data Studio (Looker Studio):** Cloud dashboard with KPI scorecards, monthly trend, retailer ranking, data-quality flag, and interactive filters
 
 ## BigQuery ETL Pipeline & Data Studio Dashboard
 
