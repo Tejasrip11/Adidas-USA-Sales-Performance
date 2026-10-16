@@ -30,6 +30,8 @@ The project demonstrates data cleaning, data-quality validation, SQL analysis, d
 - DAX
 - Power Query
 - Git and GitHub
+- Google BigQuery
+- Data Studio (Looker Studio)
 
 ## Planned Data Model
 
